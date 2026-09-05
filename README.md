@@ -20,7 +20,7 @@ This is a solution to the [QR code component on Frontend Mentor](https://www.fro
 ### Links
 
 - Solution URL : (https://github.com/roshan85294/Frontend-Mentor-Solution/blob/main/design/index.html)
-- Live Site URL : ()
+- Live Site URL : (https://app.netlify.com/projects/prismatic-phoenix-2a7701/overview)
 
 ## MY process
 
